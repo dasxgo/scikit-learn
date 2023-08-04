@@ -1,5 +1,5 @@
-# Machine Learning
-machine learning with scikit learn 
+# Scikit Learn
+Machine learning with scikit learn 
 
 # Use
 
