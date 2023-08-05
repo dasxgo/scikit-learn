@@ -1,7 +1,7 @@
 # Scikit Learn
 Machine learning with scikit learn 
 
-## Use
+## Contents
 
 - PCA
 - KPCA
