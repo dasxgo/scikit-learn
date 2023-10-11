@@ -1,7 +1,7 @@
 # Overview
 Machine learning with scikit learn 
 
-## Contents
+## Table of Contents
 
 - PCA
 - KPCA
